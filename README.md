@@ -1,3 +1,9 @@
-<hr> <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=NoIdeaIndustry&title_color=6FDA44&text_color=FFFFFF&show_icons=true&count_private=true&&include_all_commitsicon_color=6FDA44&theme=dark" width="500px"/>
-     </div>
+<h1>🏆 Github Profile Trophies</h1>
+<a href="https://github.com/NoIdeaIndustry/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=NoIdeaIndustry&theme=onedark&no-frame=true&column=-1&margin-w=10&rank=A&rank=B&rank=C"/>
+</a>
+
+<h1>🚀 Github Profile Statistics</h1>
+<div><img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=NoIdeaIndustry&count_private=true&include_all_commits=true&theme=onedark&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoIdeaIndustry&layout=compact&theme=onedark" />
+</div>
