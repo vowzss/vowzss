@@ -4,6 +4,6 @@
 
 <h1>🚀 Github Profile Statistics</h1>
 
-<img height="170" align="left" src="https://github-readme-stats.noideaindustry.vercel.app/api?username=NoIdeaIndustry&count_private=true&include_all_commits=true&theme=onedark&show_icons=true" />
+<img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=NoIdeaIndustry&count_private=true&include_all_commits=true&theme=onedark&show_icons=true" />
   
-<img height="170" align="left" src="http://github-readme-stats-noideaindustry.vercel.app/api/top-langs/?username=NoIdeaIndustry&layout=compact&theme=onedark&langs_count=6&hide=HLSL,ShaderLab,Makefile,GLSL&count_private=true" />
+<img height="160" src="http://github-readme-stats.vercel.app/api/top-langs/?username=NoIdeaIndustry&layout=compact&theme=onedark&langs_count=6&hide=HLSL,ShaderLab,Makefile,GLSL&count_private=true" />
