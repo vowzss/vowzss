@@ -4,6 +4,6 @@
 </a>
 
 <h1>🚀 Github Profile Statistics</h1>
-<div><img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=NoIdeaIndustry&count_private=true&include_all_commits=true&theme=onedark&show_icons=true" />
+<div><img height="170" align="left" src="https://github-readme-stats.noideaindustry.vercel.app/api?username=NoIdeaIndustry&count_private=true&include_all_commits=true&theme=onedark&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoIdeaIndustry&layout=compact&theme=onedark&langs_count=6&hide=HLSL,ShaderLab,Makefile,GLSL&count_private=true" />
 </div>
