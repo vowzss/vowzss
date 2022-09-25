@@ -1,6 +1,6 @@
 <h1>🏆 Github Profile Trophies</h1>
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=NoIdeaIndustry&theme=onedark&no-frame=true&column=-1&margin-w=10&rank=A&rank=B&rank=C"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=NoIdeaIndustry&theme=onedark&no-frame=true&column=-1&margin-w=10"/>
 
 <h1>🚀 Github Profile Statistics</h1>
 
