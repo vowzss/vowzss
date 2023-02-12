@@ -1,14 +1,14 @@
 ## 📝 My Information
 
 - 🎓 Studying 
-    - 💡 **computer science and engineering**
+    - 💡 **Computer science and engineering**
 
-- 🔭 I’m a freelancer and building
+- 🔭 I am building
     - ⚡ RESTful Apis
     - 🎮 Video games
     - 💼 Game engines
     - 🚀 Mathematics & Physics simulations
-    - 💻 Cross platforms apps
+    - 💻 Cross-platform apps
   
 - 🎆 Working with 
     - **Java**, **C**, **C#**, **C++**, **Dart**, **Lua**, **Python**
@@ -25,6 +25,8 @@
     - 💤 Sleeping
     - 🍪 Cooking
     - ⛵ Sailing
+    - 🚲 Biking
+    - ⚓ Diving
 
 ## 📊 My Statistics
 
