@@ -11,7 +11,7 @@
     - 💻 Cross-platform apps
   
 - 🎆 Working with 
-    - **Java**, **C**, **C#**, **C++**, **Dart**, **Lua**, **Python**
+    - **Java**, **C**, **C#**, **C++**, **Dart**, **Lua**, **Python**, **Rust**
   
 - 🚧 Working using 
     - **Redis**, **Docker**, **MongoDB**, **PostgresSQL**
