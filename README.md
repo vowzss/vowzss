@@ -2,7 +2,7 @@
 
 
 ```yaml
-me:
+personal:
     studies: Engineering student
     about: Building softwares, video games, APIs and other fun stuff
 
