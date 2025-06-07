@@ -13,12 +13,13 @@ personal:
 
     languages:
         mainly: C++, C#
-        others: Java, Dart, Lua
+        others: Dart, Java, Kotlin, Lua
         learning: Rust
 
     technologies: Docker, Redis, PostgreSQL, MongoDB
 
+    contact: vowzss@noideaindustry.com
+
 professionnal:
-    website: noideaindustry.com
     contact: contact@noideaindustry.com
 ```
