@@ -1,22 +1,19 @@
 ## Hey there 👋
-
-
 ```yaml
 personal:
-    studies: Engineering student
-    about: Building softwares, video games, APIs and other fun stuff
+    studies: computer science
+    about: building cross-platform apps, rendering softwares, APIs and other fun stuff
 
-    nationality: French
-    speaking: French, English
+    speaking: french, english
 
-    hobbies: Diving, Sailing, Cooking, Biking
+    hobbies: scuba diving, parachuting, cooking, biking
 
     languages:
-        mainly: C++, C#
-        others: Dart, Java, Kotlin, Lua
-        learning: Rust
-
-    technologies: Docker, Redis, PostgreSQL, MongoDB
+        mainly: c++, c#
+        others: dart, java, kotlin, lua, python
+        learning: rust
+    frameworks: flutter, spring, tornado, asp.net
+    technologies: docker, postgreSQL, cockroachDB, redis, scylladb, mongoDB
 
     contact: vowzss@noideaindustry.com
 
