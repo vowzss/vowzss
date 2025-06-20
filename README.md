@@ -12,6 +12,7 @@ personal:
         mainly: c++, c#
         others: dart, java, kotlin, lua, python
         learning: rust
+
     frameworks: flutter, spring, tornado, asp.net
     technologies: docker, postgreSQL, cockroachDB, redis, scylladb, mongoDB
 
