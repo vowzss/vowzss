@@ -19,5 +19,5 @@ personal:
     contact: vowzss@noideaindustry.com
 
 professionnal:
-    contact: contact@noideaindustry.com
+    contact: enterprise@noideaindustry.com
 ```
