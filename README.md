@@ -14,10 +14,10 @@ personal:
         learning: rust
 
     frameworks: flutter, spring, tornado, asp.net
-    technologies: docker, postgreSQL, cockroachDB, redis, scylladb, mongoDB, minio, apache ignite, ...
+    technologies: docker, postgreSQL, cockroachDB, redis, scyllaDB, mongoDB, minio, apache ignite, ...
 
     contact: vowzss@noideaindustry.com
 
 professionnal:
-    contact: entreprise@noideaindustry.com
+    contact: contact@noideaindustry.com
 ```
